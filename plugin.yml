@@ -1,0 +1,10 @@
+name: FortuneMC
+main: me.spypat.fortunemc.FortuneMC
+version: 1.0.0
+api-version: 1.12
+commands:
+    fortunemc:
+        description: Main Command For The FortuneMC Plugin.
+        usage: /fortunemc
+        permission: fortunemc.main
+        permission-message: You Don't Have Permission To Do This!
