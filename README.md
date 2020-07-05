@@ -1,4 +1,4 @@
-# fortunemc
+# FortuneMC
 A little plugin I made for the factions server FortuneMC to fix some issues with raiding.
 Changes the following for factions on FortuneMC to create a better raiding system than vanilla Minecraft offers:
 
