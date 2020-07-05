@@ -1,5 +1,5 @@
 # FortuneMC
-A little plugin I made for the factions server FortuneMC to fix some issues with raiding.
+A little plugin I made for the factions server FortuneMC to fix some issues with raiding. The plugin is made to run on Spigot 1.12.2.
 Changes the following for factions on FortuneMC to create a better raiding system than vanilla Minecraft offers:
 
 1. Players will not be teleported when eating chorus fruit within 8 blocks of obsidian making obsidian bases immune to chorus fruit raiding.
